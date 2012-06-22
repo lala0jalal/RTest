@@ -389,10 +389,14 @@
 					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "unitTest/unitTest-Prefix.pch";
+				GCC_PREFIX_HEADER = "";
 				INFOPLIST_FILE = "unitTestTests/unitTestTests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = NO;
 				TEST_HOST = "$(BUNDLE_LOADER)";
+				"TEST_HOST[sdk=iphonesimulator5.1]" = "";
+				TEST_RIG = "";
+				VERSION_INFO_FILE = "";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
@@ -406,10 +410,14 @@
 					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "unitTest/unitTest-Prefix.pch";
+				GCC_PREFIX_HEADER = "";
 				INFOPLIST_FILE = "unitTestTests/unitTestTests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = NO;
 				TEST_HOST = "$(BUNDLE_LOADER)";
+				"TEST_HOST[sdk=*]" = "";
+				TEST_RIG = "";
+				VERSION_INFO_FILE = "";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
@@ -433,6 +441,7 @@
 				7E948E5F1594BC6F00AFF54F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7E948E601594BC6F00AFF54F /* Build configuration list for PBXNativeTarget "unitTestTests" */ = {
 			isa = XCConfigurationList;
@@ -441,6 +450,7 @@
 				7E948E621594BC6F00AFF54F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
