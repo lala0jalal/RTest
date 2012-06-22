@@ -1,153 +1,0 @@
-TunitTestTests
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/Info.plist unitTestTests/unitTestTests-Info.plist
-cProcessPCH /var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.pth unitTest/unitTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.o /Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/unitTestTests normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
-c000000004F68C2C8000000000002DE40
-t1332265672
-s187968
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
-c000000004F453DF80000000000000110
-t1329937912
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004F68C5130000000000353830
-t1332266259
-s3487792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004F68C52C0000000000905E40
-t1332266284
-s9461312
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest
-t2
-s0
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest.dSYM
-t2
-s0
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/Info.plist
-t2
-s0
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/unitTestTests
-t2
-s0
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.LinkFileList
-c000000004FE4A218000000000000008D
-t1340383768
-s141
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.o
-t2
-s0
-
-N/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Script-7E948E491594BC6F00AFF54F.sh
-c000000004FE4A2180000000000000062
-t1340383768
-s98
-
-N/Users/lalajalal/Desktop/RTest/unitTest/unitTest/unitTest-Prefix.pch
-c000000004FE484EF000000000000013F
-t1340376303
-s319
-
-N/Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/en.lproj/InfoPlist.strings
-c000000004FE484EF000000000000002D
-t1340376303
-s45
-
-N/Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests.m
-c000000004FE48C980000000000000659
-t1340378264
-s1625
-
-N/var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.pth
-t2
-s0
-
-NunitTestTests/unitTestTests-Info.plist
-c000000004FE484EF00000000000002AB
-t1340376303
-s683
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies27697298d994b541^c1377598d994b541^---0#1#0#--18"Check dependencies36"03D5B950-098E-4373-AD30-593087E639C3-
-
-CCompileC build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.o /Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s362076568.812978
-e362076568.916373
-r1
-xCompileC
-xbuild/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.o
-x/Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests.m5246d098d994b541^f696ea98d994b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests.m0000000000000000^3653"CompileC build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.o unitTestTests/unitTestTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lalajalal/Desktop/RTest/unitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-generated-files.hmap -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-own-target-headers.hmap -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-all-target-headers.hmap -iquote /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-project-headers.hmap -I/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/include -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/DerivedSources/i386 -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/DerivedSources -F/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch -MMD -MT dependencies -MF /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.d --serialize-diagnostics /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.dia -c /Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests.m -o /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.o36"463D8053-ADBB-4785-9DA7-0254F5F0CA25-
-
-CCopyStringsFile /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/en.lproj/InfoPlist.strings unitTestTests/en.lproj/InfoPlist.strings
-r0
-
-CGenerateDSYMFile /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest.dSYM /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/unitTestTests
-r0
-
-CLd /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/unitTestTests normal i386
-s362076568.923232
-e362076568.978806
-r0
-xLd
-x/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/unitTestTests
-xnormal
-xi386
-oUndefined symbols for architecture i386:
-o  "_OBJC_CLASS_$_City", referenced from:
-o      objc-class-ref in unitTestTests.o
-old: symbol(s) not found for architecture i386
-oclang: error: linker command failed with exit code 1 (use -v to see invocation)
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/unitTestTests8f72ec98d994b541^9083fa98d994b541^-248"Undefined symbols for architecture i386:  "_OBJC_CLASS_$_City", referenced from:      objc-class-ref in unitTestTests.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@38""_OBJC_CLASS_$_City", referenced from:-362076568#41#41#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@33"Objc-class-ref in unitTestTests.o-362076568#82#40#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@41"Symbol(s) not found for architecture i386-362076568#122#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-362076568#168#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#0#--1582"Ld build/Release-iphonesimulator/unitTestTests.octest/unitTestTests normal i386    cd /Users/lalajalal/Desktop/RTest/unitTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator -F/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Objects-normal/i386/unitTestTests.LinkFileList -mmacosx-version-min=10.6 -bundle_loader /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTest.app/unitTest -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/unitTestTests36"00A3F26C-1431-45FC-9382-E8DBE1D33614-
-
-CPhaseScriptExecution "Run Script" /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/Script-7E948E491594BC6F00AFF54F.sh
-r0
-
-CProcessInfoPlistFile /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/Info.plist unitTestTests/unitTestTests-Info.plist
-s362076568.457260
-e362076568.463975
-r1
-xProcessInfoPlistFile
-x/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/Info.plist
-xunitTestTests/unitTestTests-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process unitTestTests/unitTestTests-Info.plist86587598d994b541^31d37698d994b541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/lalajalal/Desktop/RTest/unitTest/unitTestTests/unitTestTests-Info.plist0000000000000000^646"ProcessInfoPlistFile build/Release-iphonesimulator/unitTestTests.octest/Info.plist unitTestTests/unitTestTests-Info.plist    cd /Users/lalajalal/Desktop/RTest/unitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility unitTestTests/unitTestTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest/Info.plist36"3E127131-FA6D-475D-B824-D852B764094C-
-
-CProcessPCH /var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.pth unitTest/unitTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s362076568.472569
-e362076568.806126
-r1
-xProcessPCH
-x/var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.pth
-xunitTest/unitTest-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile unitTest/unitTest-Prefix.pch4f237998d994b541^9e5dce98d994b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/lalajalal/Desktop/RTest/unitTest/unitTest/unitTest-Prefix.pch0000000000000000^3616"ProcessPCH /var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.pth unitTest/unitTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lalajalal/Desktop/RTest/unitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-generated-files.hmap -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-own-target-headers.hmap -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-all-target-headers.hmap -iquote /Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/unitTestTests-project-headers.hmap -I/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/include -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/DerivedSources/i386 -I/Users/lalajalal/Desktop/RTest/unitTest/build/unitTest.build/Release-iphonesimulator/unitTestTests.build/DerivedSources -F/Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.dia -c /Users/lalajalal/Desktop/RTest/unitTest/unitTest/unitTest-Prefix.pch -o /var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/lb/w7xb0gsx0h18qg41j277zxzc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/unitTest-Prefix-cjunwkyqkxxmnxakmkliapmivmrf/unitTest-Prefix.pch.d36"CFDDE764-A946-4BA7-8D71-9BF9575C6682-
-
-CTouch /Users/lalajalal/Desktop/RTest/unitTest/build/Release-iphonesimulator/unitTestTests.octest
-r0
-
